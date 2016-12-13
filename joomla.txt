@@ -1,0 +1,219 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                                <!-- head -->
+                	<base href="http://anekhaajith.com/anekha/index.php" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Anekha" />
+	<meta name="description" content="Hey, Anekha here! I am a3rd Year Creative Digital Media student in the Institute of Technology Blanchardstown, Dublin. I am a very creative and outgoing pe..." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>About</title>
+	<link href="/anekha/templates/shaper_helix3/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="//fonts.googleapis.com/css?family=Nunito:300,regular,700&amp;subset=latin" rel="stylesheet" type="text/css" />
+	<link href="/anekha/templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/anekha/templates/shaper_helix3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/anekha/templates/shaper_helix3/css/legacy.css" rel="stylesheet" type="text/css" />
+	<link href="/anekha/templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/anekha/templates/shaper_helix3/css/presets/preset4.css" rel="stylesheet" type="text/css" class="preset" />
+	<style type="text/css">
+body{font-family:Nunito, sans-serif; font-weight:300; }h1{font-family:Nunito, sans-serif; font-weight:300; }h2{font-family:Nunito, sans-serif; font-weight:300; }h3{font-family:Nunito, sans-serif; font-weight:300; }h4{font-family:Nunito, sans-serif; font-weight:300; }h5{font-family:Nunito, sans-serif; font-weight:300; }h6{font-family:Nunito, sans-serif; font-weight:300; }#sp-top-bar{ background-color:#f5f5f5;color:#999999; }
+	</style>
+	<script src="/anekha/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/anekha/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/anekha/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/anekha/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/anekha/templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/anekha/templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/anekha/templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+function ctSetCookie(c_name, value, def_value) {
+  document.cookie = c_name + "=" + escape(value.replace(/def_value/, value)) + "; path=/";
+}
+ctSetCookie("ct_checkjs", "3af4aa6e6327f3d72571a4c27f05b12c", "0");
+    
+var sp_preloader = '1';
+
+var sp_gotop = '0';
+
+var sp_offanimation = 'default';
+
+	</script>
+	<meta property="og:url" content="http://anekhaajith.com/anekha/index.php" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="About" />
+	<meta property="og:description" content="Hey, Anekha here! I am a3rd Year Creative Digital Media student in the Institute of Technology Blanchardstown, Dublin. I am a very creative and outgoing pe..." />
+	<script type="text/javascript" src="http://anekhaajith.com/anekha/plugins/system/lazyloadforjoomla/assets/js/lazyloadforjoomla-jquery.js"></script>
+<script type="text/javascript">jQuery(document).ready(function() {jQuery("img").lazyload();});</script>
+
+                                
+</head>
+                <body class="site com-content view-article no-layout no-task itemid-102 en-gb ltr  sticky-header layout-fluid off-canvas-menu-init">
+
+                    <div class="body-wrapper">
+                        <div class="body-innerwrapper">
+                            <div class="sp-pre-loader"><div class="circle-two"><span></span></div></div><section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-6 col-md-6"><div class="sp-column "><ul class="social-icons"><li><a target="_blank" href="https://www.facebook.com/anekhaajith"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="https://twitter.com/anekhaajith"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="https://www.linkedin.com/in/anekha-ajith-b9ab3b89?trk=nav_responsive_tab_profile"><i class="fa fa-linkedin"></i></a></li></ul></div></div><div id="sp-top2" class="col-sm-6 col-md-6"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-mobile"><i class="fa fa-mobile"></i> <a href="tel:+353873437160">+353873437160</a></li><li class="sp-contact-email"><i class="fa fa-envelope"></i> <a href="mailto:anekhaaa@gmail.com">anekhaaa@gmail.com</a></li></ul></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-8 col-sm-3 col-md-3"><div class="sp-column "><h1 class="logo"> <a href="/anekha/">Online Portfolio</a></h1></div></div><div id="sp-menu" class="col-xs-4 col-sm-9 col-md-9"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
+				<a id="offcanvas-toggler" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs"><li class="sp-menu-item current-item active"><a  href="/anekha/index.php" >About</a></li><li class="sp-menu-item"><a  href="/anekha/index.php/photography" >Photography</a></li><li class="sp-menu-item"><a  href="/anekha/index.php/graphic-design" >Graphic Design</a></li><li class="sp-menu-item"><a  href="/anekha/index.php/magazine" >Magazine</a></li><li class="sp-menu-item"><a  href="/anekha/index.php/videography" >Videography</a></li><li class="sp-menu-item"><a  href="/anekha/index.php/resume" >Resume</a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+		<div class="page-header">
+		<h1> About </h1>
+	</div>
+	
+	
+
+	<div class="entry-header">
+		
+						<dl class="article-info">
+
+		
+			<dt class="article-info-term"></dt>	
+				
+							<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+	<i class="fa fa-user"></i>
+					<span itemprop="name" data-toggle="tooltip" title="Written by ">Anekha</span>	</dd>			
+			
+							<dd class="category-name">
+	<i class="fa fa-folder-open-o"></i>
+				<a href="/anekha/index.php/2-uncategorised" itemprop="genre" data-toggle="tooltip" title="Article Category">Uncategorised</a>	</dd>			
+			
+							<dd class="published">
+	<i class="fa fa-calendar-o"></i>
+	<time datetime="2016-12-12T20:34:53+00:00" itemprop="datePublished" data-toggle="tooltip" title="Published Date">
+		12 December 2016	</time>
+</dd>			
+		
+					
+			
+							<dd class="hits">
+	<span class="fa fa-eye"></span>
+	<meta itemprop="interactionCount" content="UserPageVisits:83" />
+	Hits: 83</dd>					
+		
+
+	</dl>
+		
+					<h2 itemprop="name">
+									About							</h2>
+												</div>
+
+						
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/anekha/index.php?tmpl=component&amp;print=1&amp;page=" title="Print article < About >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Print</a> </li>
+																<li class="email-icon"> <a href="/anekha/index.php/component/mailto/?tmpl=component&amp;template=shaper_helix3&amp;link=69cc971e2aec86783315231c416183c888baf0c0" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>Email</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+			
+		
+				
+	
+			<div itemprop="articleBody">
+		<p style="text-align: center;">Hey, Anekha here! I am a3rd Year Creative Digital Media student in the Institute of Technology Blanchardstown, Dublin. I am a very creative and outgoing person, I love meeting new people and taking on new opportunities. I particularly enjoy photography, graphic design and filmmaking within the broad spectrum of modules in the course. My interests include fashion designing and dance outside of college.</p>
+<p style="text-align: center;">I am currently seeking an internship to apply my experience assisting a company’s service to their clients using my skills in Digital Media.</p> 	</div>
+
+	
+	
+	
+<ul class="pager pagenav">
+	<li class="previous">
+		<a href="/anekha/index.php/photography" rel="prev">
+			<span class="icon-chevron-left"></span> Prev		</a>
+	</li>
+</ul>
+				
+	
+	
+			<div class="article-footer-wrap">
+			<div class="article-footer-top">
+									<div class="helix-social-share">
+		<div class="helix-social-share-icon">
+			<ul>
+				
+				<li>
+					<div class="facebook" data-toggle="tooltip" data-placement="top" title="Share On Facebook">
+
+						<a class="facebook" onClick="window.open('http://www.facebook.com/sharer.php?u=http://anekhaajith.com/anekha/index.php','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="http://www.facebook.com/sharer.php?u=http://anekhaajith.com/anekha/index.php">
+
+							<i class="fa fa-facebook"></i>
+						</a>
+
+					</div>
+				</li>
+				<li>
+					<div class="twitter"  data-toggle="tooltip" data-placement="top" title="Share On Twitter">
+						
+						<a class="twitter" onClick="window.open('http://twitter.com/share?url=http://anekhaajith.com/anekha/index.php&amp;text=About','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="http://twitter.com/share?url=http://anekhaajith.com/anekha/index.php&amp;text=About">
+							<i class="fa fa-twitter"></i>
+						</a>
+
+					</div>
+				</li>
+				<li>
+					<div class="google-plus">
+						<a class="gplus" data-toggle="tooltip" data-placement="top" title="Share On Google Plus" onClick="window.open('https://plus.google.com/share?url=http://anekhaajith.com/anekha/index.php','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=http://anekhaajith.com/anekha/index.php" >
+						<i class="fa fa-google-plus"></i></a>
+					</div>
+				</li>
+				
+				<li>
+					<div class="linkedin">
+						<a class="linkedin" data-toggle="tooltip" data-placement="top" title="Share On Linkedin" onClick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=http://anekhaajith.com/anekha/index.php','Linkedin','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&url=http://anekhaajith.com/anekha/index.php" >
+							
+						<i class="fa fa-linkedin-square"></i></a>
+					</div>
+				</li>
+			</ul>
+		</div>		
+	</div> <!-- /.helix-social-share -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+					</div>
+	
+</article>
+</div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright">© 2016 ANEKHA AJITH. All Rights Reserved. </span></div></div></div></div></footer>                        </div> <!-- /.body-innerwrapper -->
+                    </div> <!-- /.body-innerwrapper -->
+
+                    <!-- Off Canvas Menu -->
+                    <div class="offcanvas-menu">
+                        <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+                        <div class="offcanvas-inner">
+                                                          <p class="alert alert-warning">
+                                Please publish modules in <strong>offcanvas</strong> position.                              </p>
+                                                    </div> <!-- /.offcanvas-inner -->
+                    </div> <!-- /.offcanvas-menu -->
+
+                    
+                    
+                    <!-- Preloader -->
+                    
+                    <!-- Go to top -->
+                    
+                </body>
+                </html>
